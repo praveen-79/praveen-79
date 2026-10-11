@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-label="P. Praveen Kumar's GitHub Stats">
+  <defs>
+    <linearGradient id="rankGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg { fill: #1a1b27; stroke: #292e42; stroke-width: 1.5px; }
+    .header { font: 700 17px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .label { font: 600 13.5px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
+    .val { font: 700 13.5px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .rank-letter { font: 800 24px 'Segoe UI', Ubuntu, sans-serif; fill: #7dcfff; }
+    .rank-sub { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #7aa2f7; letter-spacing: 1px; }
+    .ring-anim {
+      stroke-dasharray: 251;
+      stroke-dashoffset: 35;
+      animation: dash 1.6s ease-out forwards;
+    }
+    @keyframes dash {
+      from { stroke-dashoffset: 251; }
+      to { stroke-dashoffset: 35; }
+    }
+  </style>
+  <rect x="1" y="1" width="465" height="193" rx="10" class="bg"/>
+  <text x="25" y="34" class="header">P. Praveen Kumar's GitHub Stats</text>
+
+  <g transform="translate(25, 58)">
+    <text x="0" y="0" class="label">⭐ Total Stars Earned:</text>
+    <text x="210" y="0" class="val">11+</text>
+
+    <text x="0" y="27" class="label">📦 Public Repositories:</text>
+    <text x="210" y="27" class="val">20</text>
+
+    <text x="0" y="54" class="label">🚀 Live Deployed Systems:</text>
+    <text x="210" y="54" class="val">7 Flagship Apps</text>
+
+    <text x="0" y="81" class="label">🔥 Total Contributions:</text>
+    <text x="210" y="81" class="val">250+</text>
+
+    <text x="0" y="108" class="label">🧠 AI / ML Architectures:</text>
+    <text x="210" y="108" class="val">RAG • ViT • BiLSTM</text>
+  </g>
+
+  <!-- Rank Circle -->
+  <g transform="translate(382, 102)">
+    <circle cx="0" cy="0" r="40" stroke="#24283b" stroke-width="6" fill="#16161e"/>
+    <circle cx="0" cy="0" r="40" stroke="url(#rankGrad)" stroke-width="6" fill="none" stroke-linecap="round" transform="rotate(-90)" class="ring-anim"/>
+    <text x="0" y="6" text-anchor="middle" class="rank-letter">A+</text>
+    <text x="0" y="22" text-anchor="middle" class="rank-sub">AI/ML</text>
+  </g>
+</svg>

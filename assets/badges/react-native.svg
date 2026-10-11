@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="28" viewBox="0 0 205 28" role="img" aria-label="React Native (Expo)">
+  <title>React Native (Expo)</title>
+  <rect width="205" height="28" rx="3" fill="#20232A"/>
+  <g fill="#61DAFB" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <g transform="translate(9,6) scale(0.66)" stroke="#61DAFB" stroke-width="1.8" fill="none"><circle cx="12" cy="12" r="2.2" fill="#61DAFB"/><ellipse rx="10" ry="4.2" transform="translate(12,12)"/><ellipse rx="10" ry="4.2" transform="translate(12,12) rotate(60)"/><ellipse rx="10" ry="4.2" transform="translate(12,12) rotate(120)"/></g>
+    <text x="109.5" y="17.5" fill="#61DAFB" letter-spacing="1.1">REACT NATIVE (EXPO)</text>
+  </g>
+</svg>

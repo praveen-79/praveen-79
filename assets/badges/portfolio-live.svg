@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="28" viewBox="0 0 229 28" role="img" aria-label="3D Portfolio: Live Site">
+  <title>3D Portfolio: Live Site</title>
+  <rect width="133" height="28" fill="#0f172a"/>
+  <rect x="133" width="96" height="28" fill="#0EA5E9"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <g transform="translate(9,6) scale(0.66)" stroke="#ffffff" stroke-width="2" fill="none"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></g>
+    <text x="74.5" y="17.5" fill="#ffffff" letter-spacing="1">3D PORTFOLIO</text>
+    <text x="181.0" y="17.5" fill="#ffffff" letter-spacing="1">LIVE SITE</text>
+  </g>
+</svg>

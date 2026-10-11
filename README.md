@@ -9,10 +9,6 @@
   # Hey there, I'm Praveen 👋
   ### AI/ML Engineer | Python Developer | Building Intelligent Applications
 
-  <a href="https://github.com/praveen-79">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Practical+AI+%26+Machine+Learning+Applications;Exploring+LLMs+(Qwen+2.5)+%26+RAG+Pipelines;Deep+Learning+%E2%80%A2+CNN-BiLSTM+%E2%80%A2+Vision+Transformers;Full-Stack+Python+Developer+%E2%80%A2+CBIT+AI+%26+ML" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     I build practical applications using <b>Python</b>, <b>machine learning</b>, and <b>modern AI technologies</b>.<br/>
     I'm exploring <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>deep learning</b> to turn ideas into useful software.
@@ -20,18 +16,20 @@
 
   <p align="center">
     <a href="https://github.com/praveen-79">
-      <img src="https://img.shields.io/badge/GitHub-Praveen--79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="./assets/badges/github-profile.svg" alt="GitHub"/>
     </a>
     <a href="https://praveen-79.github.io/praveen-portfolio/">
-      <img src="https://img.shields.io/badge/3D_Portfolio-Live_Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+      <img src="./assets/badges/portfolio-live.svg" alt="3D Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/praveen-kumar-pidamarthi-781b52299/">
-      <img src="https://img.shields.io/badge/LinkedIn-Praveen_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="./assets/badges/linkedin.svg" alt="LinkedIn"/>
     </a>
     <a href="https://huggingface.co/spaces/praveenkumarpidamarthi/praveen-coding-assistant">
-      <img src="https://img.shields.io/badge/Hugging_Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="./assets/badges/huggingface.svg" alt="Hugging Face"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=praveen-79&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+    <a href="https://github.com/praveen-79">
+      <img src="./assets/badges/profile-views.svg" alt="Profile Verified"/>
+    </a>
   </p>
 
 </div>
@@ -42,35 +40,35 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="./assets/badges/python.svg" alt="Python"/>
+  <img src="./assets/badges/sql.svg" alt="SQL"/>
+  <img src="./assets/badges/javascript.svg" alt="JavaScript"/>
 </p>
 
 ### AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/LLMs_(Qwen_2.5)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="SentenceTransformers"/>
+  <img src="./assets/badges/machine-learning.svg" alt="Machine Learning"/>
+  <img src="./assets/badges/deep-learning.svg" alt="Deep Learning"/>
+  <img src="./assets/badges/llms.svg" alt="LLMs (Qwen 2.5)"/>
+  <img src="./assets/badges/rag.svg" alt="RAG Pipelines"/>
+  <img src="./assets/badges/pytorch.svg" alt="PyTorch"/>
+  <img src="./assets/badges/tensorflow.svg" alt="TensorFlow"/>
+  <img src="./assets/badges/scikit-learn.svg" alt="Scikit-Learn"/>
+  <img src="./assets/badges/opencv.svg" alt="OpenCV"/>
+  <img src="./assets/badges/sentencetransformers.svg" alt="SentenceTransformers"/>
 </p>
 
 ### Web Development, Backend & Tools
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React_Native_(Expo)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="./assets/badges/html5.svg" alt="HTML5"/>
+  <img src="./assets/badges/css3.svg" alt="CSS3"/>
+  <img src="./assets/badges/flask.svg" alt="Flask"/>
+  <img src="./assets/badges/react-native.svg" alt="React Native (Expo)"/>
+  <img src="./assets/badges/bootstrap.svg" alt="Bootstrap 5"/>
+  <img src="./assets/badges/sqlite.svg" alt="SQLite"/>
+  <img src="./assets/badges/numpy.svg" alt="NumPy"/>
+  <img src="./assets/badges/pandas.svg" alt="Pandas"/>
+  <img src="./assets/badges/git.svg" alt="Git & GitHub"/>
 </p>
 
 ---
@@ -89,15 +87,15 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen-79&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-79&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="175"/>
+  <img src="./assets/github-stats.svg" alt="GitHub statistics" height="180"/>
+  <img src="./assets/top-langs.svg" alt="Top languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=praveen-79&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
+  <img src="./assets/streak-bar.svg" alt="GitHub Streak and Activity Bar" width="820"/>
 </p>
 
 ---
@@ -116,19 +114,19 @@
 
 <p align="center">
   <a href="https://github.com/praveen-79">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="./assets/badges/github-profile.svg" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/praveen-kumar-pidamarthi-781b52299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="./assets/badges/linkedin.svg" alt="LinkedIn"/>
   </a>
   <a href="https://praveen-79.github.io/praveen-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="./assets/badges/portfolio-live.svg" alt="Portfolio"/>
   </a>
   <a href="mailto:praveenkumarpidamarthi01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="./assets/badges/email.svg" alt="Email"/>
   </a>
   <a href="https://huggingface.co/spaces/praveenkumarpidamarthi/praveen-coding-assistant">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="./assets/badges/huggingface.svg" alt="Hugging Face"/>
   </a>
 </p>
 

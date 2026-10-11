@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="28" viewBox="0 0 156 28" role="img" aria-label="Deep Learning">
+  <title>Deep Learning</title>
+  <rect width="156" height="28" rx="3" fill="#6A1B9A"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <path transform="translate(9,6) scale(0.66)" fill="#ffffff" d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7zM9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1z"/>
+    <text x="85.0" y="17.5" fill="#ffffff" letter-spacing="1.1">DEEP LEARNING</text>
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="185" viewBox="0 0 820 185" fill="none" role="img" aria-label="GitHub Contribution Streak and Engineering Velocity">
+  <defs>
+    <linearGradient id="streakGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdae"/>
+    </linearGradient>
+    <linearGradient id="fireGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg { fill: #1a1b27; stroke: #292e42; stroke-width: 1.5px; }
+    .big-num { font: 800 26px 'Segoe UI', Ubuntu, sans-serif; fill: #f8fafc; }
+    .accent-num { font: 800 28px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .title { font: 700 13px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; letter-spacing: 0.6px; }
+    .sub { font: 500 11.5px 'Segoe UI', Ubuntu, sans-serif; fill: #94a3b8; }
+    .pulse-ring { animation: pulseRing 2.4s infinite ease-in-out; }
+    @keyframes pulseRing {
+      0%, 100% { stroke-opacity: 0.95; }
+      50% { stroke-opacity: 0.35; }
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="818" height="183" rx="12" class="bg"/>
+  <rect x="120" y="1" width="580" height="2" fill="url(#streakGrad)"/>
+
+  <!-- Dividers -->
+  <line x1="273" y1="22" x2="273" y2="118" stroke="#292e42" stroke-width="1.5"/>
+  <line x1="546" y1="22" x2="546" y2="118" stroke="#292e42" stroke-width="1.5"/>
+  <line x1="28" y1="126" x2="792" y2="126" stroke="#24283b" stroke-width="1"/>
+
+  <!-- Column 1: Total Contributions & Repos -->
+  <g transform="translate(136, 52)" text-anchor="middle">
+    <text x="0" y="0" class="big-num">250+ Commits</text>
+    <text x="0" y="24" class="title">TOTAL CONTRIBUTIONS</text>
+    <text x="0" y="44" class="sub">20 Public Repositories • Active Since 2023</text>
+  </g>
+
+  <!-- Column 2: Center Streak & Active Builder Ring -->
+  <g transform="translate(410, 52)" text-anchor="middle">
+    <circle cx="0" cy="-6" r="28" fill="#16161e" stroke="url(#fireGrad)" stroke-width="3" class="pulse-ring"/>
+    <text x="0" y="3" class="accent-num">🔥 AI</text>
+    <text x="0" y="38" class="title" fill="#facc15">ACTIVE STREAK &amp; VELOCITY</text>
+    <text x="0" y="56" class="sub">Building LLMs, RAG &amp; Deep Learning Daily</text>
+  </g>
+
+  <!-- Column 3: Deployed Production Systems -->
+  <g transform="translate(683, 52)" text-anchor="middle">
+    <text x="0" y="0" class="big-num" fill="#7dcfff">7 Live Apps ⚡</text>
+    <text x="0" y="24" class="title">PRODUCTION DEPLOYMENTS</text>
+    <text x="0" y="44" class="sub">5 GitHub Pages + Hugging Face RAG Space</text>
+  </g>
+
+  <!-- Bottom Contribution Pulse Equalizer Bar -->
+  <g>
+    <rect x="36.0" y="160" width="11" height="6" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="54.8" y="156" width="11" height="10" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="73.6" y="158" width="11" height="8" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="92.4" y="152" width="11" height="14" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="111.2" y="148" width="11" height="18" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="130.0" y="154" width="11" height="12" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="148.8" y="157" width="11" height="9" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="167.6" y="150" width="11" height="16" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="186.4" y="144" width="11" height="22" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="205.2" y="151" width="11" height="15" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="224.0" y="155" width="11" height="11" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="242.8" y="147" width="11" height="19" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="261.6" y="142" width="11" height="24" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="280.4" y="149" width="11" height="17" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="299.2" y="153" width="11" height="13" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="318.0" y="145" width="11" height="21" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="336.8" y="141" width="11" height="25" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="355.6" y="148" width="11" height="18" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="374.4" y="152" width="11" height="14" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="393.2" y="146" width="11" height="20" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="412.0" y="140" width="11" height="26" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="430.8" y="144" width="11" height="22" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="449.6" y="150" width="11" height="16" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="468.4" y="142" width="11" height="24" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="487.2" y="138" width="11" height="28" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="506.0" y="147" width="11" height="19" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="524.8" y="151" width="11" height="15" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="543.6" y="143" width="11" height="23" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="562.4" y="139" width="11" height="27" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="581.2" y="145" width="11" height="21" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="600.0" y="149" width="11" height="17" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="618.8" y="141" width="11" height="25" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="637.6" y="137" width="11" height="29" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="656.4" y="144" width="11" height="22" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="675.2" y="148" width="11" height="18" rx="3" fill="#38bdf8" opacity="0.88"/>
+    <rect x="694.0" y="140" width="11" height="26" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="712.8" y="136" width="11" height="30" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="731.6" y="142" width="11" height="24" rx="3" fill="#818cf8" opacity="0.88"/>
+    <rect x="750.4" y="139" width="11" height="27" rx="3" fill="#38bdae" opacity="0.88"/>
+    <rect x="769.2" y="136" width="11" height="30" rx="3" fill="#38bdae" opacity="0.88"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="28" viewBox="0 0 159 28" role="img" aria-label="Email: Connect">
+  <title>Email: Connect</title>
+  <rect width="79" height="28" fill="#991b1b"/>
+  <rect x="79" width="80" height="28" fill="#EA4335"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <path transform="translate(9,6) scale(0.66)" fill="#ffffff" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+    <text x="47.5" y="17.5" fill="#ffffff" letter-spacing="1">EMAIL</text>
+    <text x="119.0" y="17.5" fill="#ffffff" letter-spacing="1">CONNECT</text>
+  </g>
+</svg>

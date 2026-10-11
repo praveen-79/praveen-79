@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="28" viewBox="0 0 99 28" role="img" aria-label="SQLite">
+  <title>SQLite</title>
+  <rect width="99" height="28" rx="3" fill="#003B57"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <path transform="translate(9,6) scale(0.66)" fill="#ffffff" d="M12 3C7.58 3 4 4.79 4 7s3.58 4 8 4 8-1.79 8-4-3.58-4-8-4zM4 9v3c0 2.21 3.58 4 8 4s8-1.79 8-4V9c0 2.21-3.58 4-8 4s-8-1.79-8-4zm0 5v3c0 2.21 3.58 4 8 4s8-1.79 8-4v-3c0 2.21-3.58 4-8 4s-8-1.79-8-4z"/>
+    <text x="56.5" y="17.5" fill="#ffffff" letter-spacing="1.1">SQLITE</text>
+  </g>
+</svg>

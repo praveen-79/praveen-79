@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="28" viewBox="0 0 132 28" role="img" aria-label="JavaScript">
+  <title>JavaScript</title>
+  <rect width="132" height="28" rx="3" fill="#F7DF1E"/>
+  <g fill="#111827" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <path transform="translate(9,6) scale(0.66)" fill="#111827" d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/>
+    <text x="73.0" y="17.5" fill="#111827" letter-spacing="1.1">JAVASCRIPT</text>
+  </g>
+</svg>

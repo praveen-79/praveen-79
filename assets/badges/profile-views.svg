@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="28" viewBox="0 0 182 28" role="img" aria-label="Profile: Verified">
+  <title>Profile: Verified</title>
+  <rect width="94" height="28" fill="#1e1b4b"/>
+  <rect x="94" width="88" height="28" fill="#8b5cf6"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="10" font-weight="bold">
+    <path transform="translate(9,6) scale(0.66)" fill="#ffffff" d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>
+    <text x="55.0" y="17.5" fill="#ffffff" letter-spacing="1">PROFILE</text>
+    <text x="138.0" y="17.5" fill="#ffffff" letter-spacing="1">VERIFIED</text>
+  </g>
+</svg>
